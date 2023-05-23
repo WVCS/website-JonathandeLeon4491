@@ -1,6 +1,15 @@
-body {
+/* body {
   font-family: system;
   background: #a11001;
   color: white;
   text-align: center;
+} */
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
 }

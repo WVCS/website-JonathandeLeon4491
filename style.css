@@ -1,10 +1,3 @@
-/* body {
-  font-family: system;
-  background: #a11001;
-  color: white;
-  text-align: center;
-} */
-
 body {
   background-color: lightblue;
 }
@@ -33,4 +26,8 @@ li:hover {
 a {
   text-decoration: none;
   color: white;
+}
+
+img:hover {
+  border: dashed white 5px;
 }
